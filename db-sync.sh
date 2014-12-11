@@ -38,5 +38,5 @@ if curl --output /dev/null --silent --head --fail "$url"; then
 	#replace the url strings
 	wp search-replace $oldurl $newurl
 else
-  echo 'Datatbase not available or was not downloaded. No changes made'
+  echo 'Database not available or was not downloaded. No changes made.'
 fi
