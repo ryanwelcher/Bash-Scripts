@@ -15,4 +15,6 @@ switchSVN
 Quickly switch between installed SVN versions using brew to link and unlink the files appropriate files
 Requires brew and assumes subversion 1.8 and 1.7 are available.
 
+Not strictly WordPress related but helpful as Core uses a different version of SVN than VIP.
+
 Usage : `switchSVN 18`
