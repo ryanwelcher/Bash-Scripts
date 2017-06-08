@@ -18,3 +18,10 @@ Requires brew and assumes subversion 1.8 and 1.7 are available.
 Not strictly WordPress related but helpful as Core uses a different version of SVN than VIP.
 
 Usage : `switchSVN 18`
+
+
+apply-patch
+======================
+Pretty much a copy of the utility tool found here - http://scribu.net/wordpress/contributing-to-wordpress-using-github.html with some added output and error message.
+ 
+All credit to scribu!
