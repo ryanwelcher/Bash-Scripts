@@ -22,6 +22,9 @@ Usage : `switchSVN 18`
 
 apply-patch
 ======================
+Apply a patch from trac.
 Pretty much a copy of the utility tool found here - http://scribu.net/wordpress/contributing-to-wordpress-using-github.html with some added output and error message.
  
 All credit to scribu!
+
+usage `apply-patch https://core.trac.wordpress.org/attachment/ticket/40947/nav-menu.patch`
